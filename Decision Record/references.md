@@ -1,7 +1,3 @@
----
-next: false
----
-
 # References
 
 Zimmermann, O. (2022, November 22). The Markdown ADR (MADR) Template Explained and Distilled. Retrieved from Olaf Zimmermann (ZIO): https://ozimmer.ch/practices/2022/11/22/MADRTemplatePrimer.html#fn:4
